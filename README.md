@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, my name is Samuelson 👋 </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer" /> </h3>
 
+## 🌐 Check out my  : [Portfolio](https://samuelsonpajeu.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
